@@ -20,21 +20,36 @@ The key characteristic of why Google beat the competition was that the search wa
 |Code| Usage| 
 |:--------------:|------:|
 |downloadFromPMC.ipynb|download the pubmed text|
-|./NLP_spacy/train_pmc_word2vec.ipynb| Train a word2vec model based on pubmed text|
-|keras_on_sra_data.ipynb| Train a word2vec model for |
+|train_pmc_word2vec.ipynb| Train a word2vec model based on pubmed text|
+|keras_on_sra_data.ipynb| Train an entity recognition model using SRA meta data |
 
 |Data| Usage|
 |:--------------:|------:|
 |https://www.synapse.org/#!Synapse:syn11421651 | all SRS annotations|
 | https://www.synapse.org/#!Synapse:syn11421649 | all SRX annotations|
+|ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/PMC-ids.csv.gz|PUBMED ID conversions|
+
+### depending packages
+if u have anaconda, simply: 
+
+
+
+
+```python
+!pip install keras gensim  nltk spacy tensorflow
+
+```
+
 
 
 ### License
 This work is under Creative Commons Attribution license. This work is unpublished at the moment. Please attribute this work by citing the github page. 
 
 
-
 automatically update the notebook with data
+
+# scratch
+Please ignore the bottom parts, it's just for my convenience. 
 
 
 ```python
@@ -42,6 +57,36 @@ automatically update the notebook with data
 
 ```
 
-    [NbConvertApp] Converting notebook README.ipynb to markdown
-    [NbConvertApp] Writing 1465 bytes to README.md
 
+```python
+#!git add README.md
+```
+
+
+```python
+!git commit -m "put most files in "
+```
+
+
+```python
+!git push 
+```
+
+### status 
+retraining the word2vec models
+
+training the word2vec using the entire PMC now: 
+train_pmc_word2vec.ipynb
+
+
+
+```bash
+%%bash
+cd ./Data/
+wget ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/PMC-ids.csv.gz
+```
+
+
+```python
+!gunzip -c ./Data/PMC-ids.csv.gz | head
+```
