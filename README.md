@@ -28,8 +28,9 @@ Please download the data from the following websites:
 ### Manuscript
 It's still half baked at the moment. Hopefully it be fully baked and yummy in a month. 
 
-[Manuscript in google doc](https://docs.google.com/document/d/1sbm9L8-OCVZ_qoPqwZyedE5uL4I9k0Hg7znZn6El_l0/edit)
+* [Manuscript in google doc](https://docs.google.com/document/d/1sbm9L8-OCVZ_qoPqwZyedE5uL4I9k0Hg7znZn6El_l0/edit)
 
+* [Figures in google doc](https://docs.google.com/presentation/d/1ibOSUvBroJp1_zET_pJOAOJ6aGRFVuYSWKJC5h4soKA/edit#slide=id.p)
 
 ### dependency
 if u have anaconda, install relevant packages using command line: 
@@ -60,9 +61,9 @@ Please ignore the bottom parts, it's just for my convenience.
 ```
 
     [NbConvertApp] Converting notebook README.ipynb to markdown
-    [NbConvertApp] Writing 3220 bytes to README.md
-    [master cc77556] updated: README
-     1 file changed, 33 insertions(+), 1 deletion(-)
+    [NbConvertApp] Writing 5133 bytes to README.md
+    [master 3cd167e] updated: README
+     1 file changed, 59 insertions(+), 7 deletions(-)
     warning: push.default is unset; its implicit value has changed in
     Git 2.0 from 'matching' to 'simple'. To squelch this message
     and maintain the traditional behavior, use:
@@ -87,11 +88,11 @@ Please ignore the bottom parts, it's just for my convenience.
     Counting objects: 3, done.
     Delta compression using up to 96 threads.
     Compressing objects: 100% (3/3), done.
-    Writing objects: 100% (3/3), 1.03 KiB | 0 bytes/s, done.
+    Writing objects: 100% (3/3), 840 bytes | 0 bytes/s, done.
     Total 3 (delta 2), reused 0 (delta 0)
     remote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
     To git@github.com:brianyiktaktsui/DEEP_NLP.git
-       2b3ddc3..cc77556  master -> master
+       d6443b7..3cd167e  master -> master
 
 
 
