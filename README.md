@@ -8,14 +8,20 @@ Named entity recognition (NER) is an important technique that promises to improv
 Packages: nltk, spacy, keras, tensorflow
 
 ###  jupyter notebooks
+Click to go to corresponding jupyter-notebook
 
 |Code| Usage| 
 |:--------------:|------:|
-|deep_sra_predict.ipynb|Classify text entity using the trained NER model|
+|[deep_sra_predict.ipynb](deep_sra_predict.ipynb)|Classify text entity using the trained NER model|
 |deep_sra_train.ipynb| Train an entity recognition model using SRA meta data |
+
+Auxilary notebooks that probably not used in manuscripts
+|Code| Usage| 
+|:--------------:|------:|
 |downloadFromPMC.ipynb|download the pubmed text|
 |train_pmc_word2vec.ipynb| Train a word2vec model based on pubmed text|
 |mergeEntities.ipynb| merge similar entities|
+|nGramClassification_batch.ipynb| predict NER based on all possible sentence segments |
 
 ### data location 
 
@@ -41,6 +47,32 @@ if u have anaconda, install relevant packages using command line:
 
 
 ```python
+[I'm an inline-style link](https://www.google.com)
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
+
+[You can use numbers for reference-style link definitions][1]
+
+Or leave it empty and use the [link text itself].
+
+URLs and URLs in angle brackets will automatically get turned into links. 
+http://www.example.com or <http://www.example.com> and sometimes 
+example.com (but not on Github, for example).
+
+Some text to show that the reference links can follow later.
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
+
+```
+
+
+```python
 !pip install keras gensim  nltk spacy tensorflow
 
 ```
@@ -49,81 +81,4 @@ if u have anaconda, install relevant packages using command line:
 
 ### License
 This work is under Creative Commons Attribution license. This work is unpublished at the moment. Please attribute this work by citing the github page. 
-
-
-#### scratch
-Please ignore the bottom parts, it's just for my convenience. 
-
-
-```python
-!jupyter nbconvert --to markdown README.ipynb
-!git add README.md ./mergeEntities.ipynb
-!git commit -m "updated: README, added mergeEntities.ipynb"
-!git push 
-```
-
-
-```python
-#!git mv nGramClassification_simple.ipynb deep_sra_predict.ipynb
-```
-
-
-```python
-!git commit -m "file renaming"
-!git push 
-```
-
-    [master d6443b7] file renaming
-     1 file changed, 0 insertions(+), 0 deletions(-)
-     rename nGramClassification_simple.ipynb => deep_sra_predict.ipynb (100%)
-    warning: push.default is unset; its implicit value has changed in
-    Git 2.0 from 'matching' to 'simple'. To squelch this message
-    and maintain the traditional behavior, use:
-    
-      git config --global push.default matching
-    
-    To squelch this message and adopt the new behavior now, use:
-    
-      git config --global push.default simple
-    
-    When push.default is set to 'matching', git will push local branches
-    to the remote branches that already exist with the same name.
-    
-    Since Git 2.0, Git defaults to the more conservative 'simple'
-    behavior, which only pushes the current branch to the corresponding
-    remote branch that 'git pull' uses to update the current branch.
-    
-    See 'git help config' and search for 'push.default' for further information.
-    (the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
-    'current' instead of 'simple' if you sometimes use older versions of Git)
-    
-    Counting objects: 2, done.
-    Delta compression using up to 96 threads.
-    Compressing objects: 100% (2/2), done.
-    Writing objects: 100% (2/2), 237 bytes | 0 bytes/s, done.
-    Total 2 (delta 1), reused 0 (delta 0)
-    remote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
-    To git@github.com:brianyiktaktsui/DEEP_NLP.git
-       d7eb444..d6443b7  master -> master
-
-
-
-```python
-#http://localhost:6001/notebooks/Data/DEEP_NLP/NLP_spacy/nGramClassification_batch.ipynb
-!git add ./nGramClassification_batch.ipynb
-!git commit -m "Added batch classification code"
-!git push 
-```
-
-    [master d9f3b82] Added batch classification code
-     1 file changed, 568 insertions(+)
-     create mode 100644 nGramClassification_batch.ipynb
-    Counting objects: 3, done.
-    Delta compression using up to 96 threads.
-    Compressing objects: 100% (3/3), done.
-    Writing objects: 100% (3/3), 79.52 KiB | 0 bytes/s, done.
-    Total 3 (delta 1), reused 0 (delta 0)
-    remote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
-    To git@github.com:brianyiktaktsui/DEEP_NLP.git
-       be6ba81..d9f3b82  master -> master
 
