@@ -1,0 +1,500 @@
+Resting splenic B cells were isolated from 6-8 week-old wild-type C57BL6/J mice with anti-CD43 Microbeads (anti-Ly48; Miltenyi Biotech) and were activated for 48-60 h with LPS (50  g/ml; Sigma), IL-4 (5 ng/ml; Sigma) and 0.5  g ml 1 of anti-CD180 (RP105) antibody (RP/14, BD Pharmingen).
+Mouse C57BL/6/129S6/SvEv strain was used to harvest tissues. Ovaries from 54 wild type female newborn (within 24 hours of delivery) mice were isolated and stored in RNAlater solution for RNA extraction.  Total RNA including small RNA fraction was extracted using mirVana miRNA isolation kit (Ambion) following the manufacturer's total RNA isolation procedure.
+Sample 1179 2weeks post-op
+The bone biopsy was taken from the Tyrolean Iceman s left ilium under sterile conditions in the Iceman s preservation cell at the South Tyrol Archaeological Museum in Bolzano, Italy. DNA was extracted at the Institute of Human Genetics in T bingen, Germany. A sequencing library was generated at febit GmbH in Heidelberg, Germany
+MDA-MB-468, untreated, replicate 1
+ChIP-seq from isolated mouse fibroblast
+Arsenic-related lung tumor
+Whole exome sequencing of clear cell renal cell carcinoma tumor and matched normal
+C57BL/6J-Kit&lt;W-20J&gt;/J        Sample can be obtained using JAX order ID: 000169
+RNA-seq performed on M965
+Alpha chain of individual 1. Amplified by 5'-race and 3'-primer on C segment.
+Relapse tumor of AM8, AME component
+Chromosomal structural variations play an important role in determining the transcriptional landscape of human breast cancers.
+Human stomach: gastric cardia
+Six samples sequenced for PCR validation: NA11832, NA11992, NA12006, NA18505, NA18517, NA18489
+Liver sample from C3H/HeJ mouse treated for 4 weeks with WY-14,643 (1000 ppm in diet)
+Mice with high or low total fecal IgA from two separate specific-pathogen-free facilities were compared by 16S sequencing of fecal material
+Vaginal microbial dysbiosis increases risk of preterm pre-labor rupture of the fetal membranes, funisitis and neonatal sepsis and is adversely effected by oral administration of erythromycin
+transformed by EBV infection
+ChIP-seq input DNA
+Control for Zfp609-V5 ChIP
+Endothelial cells RNA
+HCC transcriptome sequencing patient 1 tumor
+source: CHP-SKN1 cells; description: Targeted bisulfite sequencing 
+Clone A was exposed to TALENs targeting SORT1, but remains wild-type in both alleles.
+Metagenome of a wild type cecal content.
+Protocols: samples collected in Trizol and RNA precipitated using phenol chloroform Library prepared using TruSeq Stranded mRNA Sample
+Protocols: NS5 cells were cultured as previously described (Conti et al. 2005), using laminin as a media supplement (20ug/mL), and plated at a density of 28,000/cm2 NS5 cells were fixed sequentially with di(N-succimidyl) glutarate and 1% formaldehyde in phosphate buffered saline and then lysed, sonicated and immunoprecipitated, as previously described (Castro et al., 2011), with rabbit anti-RBPJ DNA libraries were prepared from 10ng of immunoprecipitated DNA according to the standard Illumina ChIP-seq protocol.
+3584 LI EP RNA
+mRNA expression of CHP-212 cell line, replicate 1
+Human 1000 genomes individual HG00866
+Protocols: Fetal liver cells from day E12.5 C57/BL6 mouse embryos expanded for 3 days in serum free medium (von Lindern et al, 2001) Fractionation of Ter119- and Ter119+ cells with Miltenyi beads (Schuh et al, 2005) Formaldehyde-crosslinked chromatin from 10^7 Ter119- or Ter119+ fetal liver cells was prepared as previously described (Schuh et al, 2005)
+Protocols: RNA was extracted using a Qiagen RNeasy Microarray tissue kit according to the manufacturer's protocol (version November 2009) in conjunction with on-column DNase digestion.
+hTERT-L2/HCT116 mixture sample 1
+DNA extracted from GMP cells of Eset Flox mice were first digestedwith MspI restriction enzyme, followed by the ligation with methylatedadaptors at the both end of DNA fragments.DNA fragments of 150-250bp in length were then subjected to bisulfite conversion and amplified by PCR. Sequence was performed at 36bp single end protocol under illumina platform.
+ZBTB24 ChIP-seq and RNA-seq after ZBTB24 knockdown
+Protocols: Heterozygous matings of Splotch-delayed mice were harvested at E14.5 (TS23) Splotch-delayed homozogous mutant and control (homozygous wild-type and heterozygote) embryos were dissected and Humerus forelimb tissue was dissected at embronic day 14.5 (Theiler Stage 23) RNA was extracted following manufacturers guidlines ( SV. Total RNA Isolation system, Promega, UK) The DNase-treated RNA (3ug) was used to prepare RNA-Seq libraries with the TruSeq RNA Sample Prep kit. A total of six cDNA libraries were constructed, representing triplicate biological replicates for each group.
+The cells grown for this study were pelleted, and RNA was extracted with an RIN of 10.00. DNA from the pelleted cell sample was genotyped using Promega GenePrint 10 System, which detected the following irregularities: D13S317:Heterozygous Imbalance (14/11) = 0.48, CSF1PO:Heterozygous Imbalance (12/11) = 0.49.
+Keywords: GSC:MIxS;MIMS:4.0
+American Type Culture Collection (ATCC# HTB-11)
+primary tissue of E681
+The data contains IGH sequences of IgA, IgG, IgM and IgE isotypes from the blood and nasal biopsy samples, isolated out of grass pollen season (January).
+Human DNA sample, exome sequencing performed according to Standard ES protocol starting from 1000 ng of genomic DNA.
+HD701 is a Quantitative Multiplex DNA Reference Standard (QMRS) which is a highly-characterized, biologically-relevant quality control material used to assess the performance of next-generation sequencing assays that detect somatic mutations. HD701 covers multiple endogenous SNPs, insertions and deletions, it includes 11 mutations at 0.8-24.5% allelic frequency in genomic DNA. The cell line background is HCT116/RKO/SW48 and allelic frequencies were determined by droplet digital PCR.
+Mouse embryonic stem cells, wildtype, replicate 1
+sorted CD4+ T-cells from peripheral blood of a young donor
+iPS cells after introductions of OCT4, SOX2, C--MYC and KLF4 in the presence of shp53 RNA lentiviruses, derived from the liver hepatoblastoma cell line HepG2 as the origin.
+WT B6 #1
+16S rRNA gene amplicons (V3-V4 region) of fecal samples and rectal biopsies.
+A project for studying the impact of YTHDF2 on mRNA translation in the heatshock condition through m6A modification
+Assay to capture and sequence rearranged genomic DNA (TC-Seq) in mouse B-Cells 53BP1-/- AID-/- with double strand breaks induced at the c-myc (chromosome 15) loci.
+Protocols: Mice raised under spf conditions Mice were injected with 5mg/kg body weight intra-peritoneal and sacrificed after 2 hr. rna was extracted using norgen total rna kit neb next ultra rna seq kit using multiplexed indexes
+Chromatin from ATM-/- mouse cerebellum was fragmented by DNase and sonication to an average size of 250 bp and then immunoprecipitated with antibodies specific for HDAC4.  The precipitated complexes were then used to prepare a SOLiD sequencing library using the DNA fragment library kit.  Barcoded library were pooled and run on a SOLiD v3.5 system for 35 nt of sequence per fragment.
+Mus musculus genomic DNA digested with methylation sensitive HpaII
+source: Leukemic bone marrow cells, primary
+Acinic cell carcinoma (Clear cell) of Patient 7
+Protocols: Embryos were isolated from mice on specified day of development; the presence of vaginal plug at noon was considered as E0.5. Heterozygous embryos were identified using a fluorescent microscope, and embryos obtained from heterozygous interbreeding were genotyped using custom-designed TaqMan primers and probes. Tissues were dissociated with Accumax (Sigma) at 37 C. Flow Cytometry experiments were performed in the VMC Flow Cytometry Shared Resource on a BD Aria I or II.
+19-30nt fraction of total RNA from cirrhotic liver
+ciliated serum-starved mIMCD3 cells, sample 1
+ips cell derived from KMU-CSN with the characteristics of contact-insensitive colonies appeared in subsequent culture and found to be immortal and non-tumorigenic activity
+FS1 is the A375 parental cell line
+Total liver RNA samples isolated from control mice.
+Human 1000 genomes individual HG03515
+source: Veh_AcH2B_ChIPseq
+Endometrioid tumor of Patient 1
+Osteosarcoma derived cybrid from 143B cell lines carrying the mutation m3571insC in mtND1 (heteroplasmy % 78) sequenced by using 454 platform.
+samples from 50 indiviuals
+This biosample describes total human brain RNA, which is available commercially from lifeTEch under the ID AM6050.
+Cardiomegaly with left ventricular hypertrophy and dilatation due to aortic stenosis of undetermined etiology
+In this study, 4 control and 5 AD cases from the brain bank of Emory University were selected for RNAseq.
+pool of cDNA from multiple tissues
+Short PBMC Normal
+source: CD4+ T cell mRNA 
+whole cell RNA seq from human K562 cells, sequenced on a Roche 454 sequencer
+B-lymphocyte, lymphoblastoid, International HapMap Project, CEPH/Utah pedigree 1459, treatment: Epstein-Barr Virus transformed  mesoderm, blood, Male  Coriell GM12864
+The sample was fixed with 0.5% formaldehyde for 5 min.
+Pooled small RNA from commercial normal fetal brain tissue.
+Total rRNA-depleted RNA from human blood sample processed using the Helicos Single Molecule Sequencing technology.
+RNA sample of PBMC from patient with classic asthma
+source: K562; characteristics: Cell type: K562; Growth properties: Suspension; Morphology: lymphoblast; description: ChIP DNA prepared using RNA Pol II antibody 
+HCA7-derived cell line with spiky colonies
+Bisulfite converted mammary gland DNA
+KBM7 wildtype replicate 1
+Extracted Ntera2 genomic DNA was fragmented with 5 restriction enzymes (EcoRI, HindIII, BsrGI, XbaI, SspI) and RNA:DNA hybrids enriched using the S9.6 monoclonal antibody or MBP-RnaseH1 mutant.
+input control (LPS-)
+Temporal(Anterior temporal) lobe of AD postmortem brain
+normal;mtDNA enriched
+MM-15 is a melanoma sample with expression of novel ALK isoform termed ALK-ATI.
+Protocols: Mice were grown under the following condition: temperature 23.5 degree centigrade +/- 2 degree centigrade, humidity  50 +/- 10 % and 12 hour illumination (light period 8:00-20:00) Total RNAs were extracted by ISOGEN (Nippon Gene), according to the manufacture's protocol. The library construction was carried out according to the manufacturers standard protocol
+Presentation of sitosterolemia as its hematological counterpart Mediterranean stomatocytosis with macrothrombocytopenia in Indian family
+source: Total bone marrow
+Protocols: cDNA was extracted and generated using the SeqPlex RNA Amplification Kit from Sigma For library preparation we used the Illumina Nextera XT DNA sample preparation protocol (Part # 15031942 Rev. C) starting with an input amount of 1 ng amplicon DNA.
+KBM-7-NuKO  (derivative of KBM-7, P01289H04)
+fecal bacterial metagenome
+whole genome sequence of 69 CC strains generated by paired-end short reads at 30X coverage of a single male per strain
+TCRB 5' RACE for Homo sapiens
+SUM-44PE cells cultured in estrogen-free conditions then fixed and chromatin immunoprecipitation performed with anti-estrogen receptor alpha antibody followed by 35bp single-end Illumina sequencing
+CELF4 wt and knockout transcriptome by localization to hippocampal CA1 cell body or neuropil
+CaSki: Cervix metastasis cell line, HPV-16 integrated.; SiHa: Cervix carcinoma cell line, HPV-16 integrated.; HeLa: Cervix adenocarcinoma cell line, HPV-18 integrated.; C-33a: Cervix carcinoma, HPV negative.; HaCat: Male skin keratinocyte cell line, HPV negative.; W12E: Cervix epithelium cell line, HPV 16 episomal.
+Protocols: MDMs were made from peripheral blood monocytes, differentiation for 6. After Ficoll gradient centrifugation, TAMs were purified by CD14 MACS and lysed in Peqgold (TRIzol-like solution based on phenol and chloroform). RNA was digested with DNase (MN) and purified on a Qiagen Minelute column. Illumina-compatible libraries were made using the Epicentre Scriptseq human/mouse/rat low input Gold kit. Illumina-compatible libraries were made using the Epicentre Scriptseq human/mouse/rat low input Gold kit.
+Clontech Peripheral Leucocyte Premium Total RNA
+Control IgG associated RNAs
+HT29 exome sequencing data
+Mus musculus modENCODE CPAH-091117_JU1422_gDNA_Tube1
+HKCI-3 Whole Genome Sequencing
+Human antibody repertoire from bulk unsorted PBMC from peripheral blood of a healthy female donor
+Fecal sample from human
+cross-sectional NGS sample  from Donor 44
+Human resting Treg cells
+Blood from bladder cancer patient
+pre-cancer HGSIL
+Preterim infant microbiota
+Protocols: Isolated neural stem cells from E18.5 or adult Swiss Webster mice were grown under non-adherent conditions for three weeks/two passages (eNSCs) or four weeks/three passages (aNSCs) prior to RNA isolation Embryonic NSCs were acutely transduced with empty vector (EV) or Bmi1-overexpressing lentiviral vector; adult NSCs were allowed to recover overnight prior to transduction Total RNA was isolated using RNAeasy Plus Micro kit (Qiagen) 150-250 ng RNA was used for library construction.  Ribosomal RNA was removed using the Ribo-Zero Magnetic Kit (Epicentre), and libraries prepared using the ScripSeq V2 RNA-seq Kit (Epicentre), using the low input protocol.
+Iron Age sample from Melton, York, UK
+Raw sequencing reads from HCT116 mRNA for synthetic read assembly. See Stapleton et al. 2015.
+immortalized cells from primary prostate carcinoma Protocols: Immortalized cells from Primary Prostate Carcinoma: ISCOVE medium plus 20% FBS (Hyclone). Cell line from Prostate Carcinoma derived from metastatic site: Cells were cultured in 150mm dishes for 72 hours in medium supplemented with hormone-deprived serum before addition of 17b-Estradiol 10 -7 M for 45 minutes or veichle (ethanol) Immunoprecipitate DNA from Chromatin Immunoprecipitaion assay (ChIP) using antibody to eNOS (Polyclonal Rabbit Anti-eNOS/NOS Type III  from BD Transduction Laboratories,  Material Number: 610299).
+Exome sequence of PEO1 ovarian cancer cell line.
+Lung tissue from IAPH patients (only nonhuman reads with the exception of human endogenous retrovirus sequences)
+Protocols: Cells were grown in DMEM medium containing 10% FCS, at 37 degree C  and 5% CO2 supply. Cells were transfected for 14 hours with transfection reagent only (Mock), with a control antisense oligonucleotide (ControlASO) or with an antisense oligonucleotide targeting alu-repeat containing RNA transcripts (AluASO). RNA was extracted from whole cells or cellular fractions (nucleoplasmic = nuclear minus nucleoli; nucleoli = isolated nucleoli) using the RNeasy Mini Kit from Qiagen. Libraries were prepared using the NEB library prep kit for long RNAs.
+immortalized lymphoblast cell line DNA (NA07014)
+Genome-wide mapping of ssDNA in human Burkitt's lymphoma line  Raji (replicate 1)
+input DNA before IP
+2 days post infected by P.aeruginosa PAO1_biological replicate 1
+Human 1000 genomes individual HG01577 
+INTERNATIONAL HAPMAP PROJECT - CEPH (PLATE I) [UTAH RESIDENTS WITH ANCESTRY FROM NORTHERN AND WESTERN EUROPE]  CYTOCHROME P450, SUBFAMILY IIC, POLYPEPTIDE 19; CYP2C19  INTERNATIONAL HAPMAP PROJECT - CEPH [UTAH RESIDENTS WITH ANCESTRY FROM NORTHERN AND WESTERN EUROPE]  NA CUSTOM SERVICE PLATE 01
+frozen specimen
+Protocols: B16F10 melanoma cell line was purchased in 2010 from the American Type Culture Collection (product: ATCC CRL-6475, lot number: 58078645). Early (third and fourth) passages of cells were used for tumor experiments. Reauthentification of cells has not been done since receipt. RNA from B16F10 cells was extracted in triplicate. Using 5 ug of total RNA, barcoded mRNA-seq cDNA libraries were prepared in triplicate using a modified Illumina mRNA-seq protocol.
+patient1 with known mutation (control)
+Neural progenitor cells (ES-derived, passages 15-18) Chromatin IP against H3K4me2
+ChIP-seq for HepG2 human liver cells using lobChIP protocol
+Protocols: GNS and NS cells were cultured in N2B27 serum-free medium, a 1:1 mixture of DMEM/F-12 and Neurobasal media (Invitrogen) augmented with N2 (Stem Cell Sciences) and B27 (Gibco) supplements. Self-renewal was supported by the addition of 10 ng/ml EGF and 20 ng/ml FGF-2 to the complete medium. Cells were plated at 20,000/cm2 in laminin-coated vessels (10 ug/ml laminin-1 (Sigma) in PBS for 6-12 h), passaged at confluence using Accutase dissociation reagent (Sigma) and were typically split at 1:3 for NS cells and 1:3 to 1:6 for GNS cells. TRIzol, phenol/chloroform extraction
+human iPS cells derived by 4F infection from HUVECs
+Human 1000 genomes individual HG01350
+source: liver
+A human foreskin fibroblast cell line purchased from System Biosciences
+Human BJ cells transduced with GFP and control treated
+Faecal samples from healthy donors and recipients with ulcerative colitis pre- and post-FMT
+Rostral and caudal cortex (RC and CC) was used. Two independent experiments were performed
+T10 is a triple negative (ER- PR- HER2-) ductal carcinoma
+BioSamples included in this BioSample are as follows: Name,sample_accession;NA18487,SAMN00000414;NA18488,SAMN00000415;NA18867,SAMN00000474;NA18868,SAMN00000475;NA18873,SAMN00000476;NA18874,SAMN00000477;NA18908,SAMN00000478;NA18910,SAMN00000479;NA18917,SAMN00000480;NA18923,SAMN00000481;NA18924,SAMN00000482;NA18933,SAMN00000483;NA18934,SAMN00000484;NA19092,SAMN00000546;NA19095,SAMN00000547;NA19096,SAMN00000548;NA19107,SAMN00000549;NA19113,SAMN00000550;NA19117,SAMN00000551;NA19118,SAMN00000552;NA19121,SAMN00000553;NA19122,SAMN00000554;NA19130,SAMN00000555;NA19146,SAMN00000556;NA19149,SAMN00000557;NA19150,SAMN00000558;NA19175,SAMN00000559;NA19179,SAMN00000560;NA19181,SAMN00000561;NA19182,SAMN00000562;NA19184,SAMN00000563;NA19185,SAMN00000564;NA19189,SAMN00000565;NA19197,SAMN00000566;NA19198,SAMN00000567;NA19213,SAMN00000568;NA19214,SAMN00000569;NA19235,SAMN00000571;NA19236,SAMN00000572;NA19247,SAMN00000573;NA19248,SAMN00000574;NA19256,SAMN00000575;NA18525,SAMN00000916;NA18527,SAMN00000917;NA18528,SAMN00000918;NA18531,SAMN00000919;NA18533,SAMN00000920;NA18535,SAMN00000921;NA18538,SAMN00000922;NA18539,SAMN00000923;NA18541,SAMN00000924;NA18553,SAMN00000925;NA18560,SAMN00000926;NA18565,SAMN00000927;NA18567,SAMN00000928;NA18574,SAMN00000931;NA19020,SAMN00001042;NA19028,SAMN00001049;NA19031,SAMN00001051;NA19036,SAMN00001053;NA19038,SAMN00001055;NA19041,SAMN00001057;NA19044,SAMN00001060;NA19046,SAMN00001062;NA19307,SAMN00001097;NA19308,SAMN00001098;NA19311,SAMN00001101;NA19312,SAMN00001102;NA19315,SAMN00001105;NA19316,SAMN00001106;NA19317,SAMN00001107;NA19318,SAMN00001108;NA19319,SAMN00001109;NA19321,SAMN00001111;NA19324,SAMN00001113;NA19327,SAMN00001114;NA19328,SAMN00001115;NA19331,SAMN00001116;NA19332,SAMN00001117;NA19334,SAMN00001118;NA19338,SAMN00001119;NA19346,SAMN00001120;NA19347,SAMN00001121;NA19350,SAMN00001122;NA19351,SAMN00001123;NA19352,SAMN00001124;NA19355,SAMN00001125;NA19359,SAMN00001126;NA19360,SAMN00001127;NA19371,SAMN00001128;NA19372,SAMN00001129;NA19373,SAMN00001130;NA19374,SAMN00001131;NA19375,SAMN00001132;NA19376,SAMN00001133;NA19377,SAMN00001134;NA19379,SAMN00001136;NA19380,SAMN00001137;NA19381,SAMN00001138;NA19382,SAMN00001139;NA19383,SAMN00001140;NA19384,SAMN00001141;NA19385,SAMN00001142;NA19390,SAMN00001143;NA19391,SAMN00001144;NA19393,SAMN00001146;NA19394,SAMN00001147;NA19395,SAMN00001148;NA19396,SAMN00001149;NA19397,SAMN00001150;NA19398,SAMN00001151;NA19399,SAMN00001152;NA19401,SAMN00001153;NA19403,SAMN00001155;NA19404,SAMN00001156;NA19428,SAMN00001157;NA19429,SAMN00001158;NA19430,SAMN00001159;NA19431,SAMN00001160;NA19434,SAMN00001162;NA19435,SAMN00001163;NA19436,SAMN00001164;NA19437,SAMN00001165;NA19438,SAMN00001166;NA19439,SAMN00001167;NA19440,SAMN00001168;NA19443,SAMN00001170;NA19444,SAMN00001171;NA19445,SAMN00001172;NA19446,SAMN00001173;NA19448,SAMN00001174;NA19449,SAMN00001175;NA19451,SAMN00001176;NA19452,SAMN00001177;NA19453,SAMN00001178;NA19456,SAMN00001181;NA19457,SAMN00001182;NA19461,SAMN00001183;NA19462,SAMN00001184;NA19463,SAMN00001185;NA19467,SAMN00001187;NA19468,SAMN00001188;NA19470,SAMN00001190;NA19471,SAMN00001191;NA19472,SAMN00001192;NA20502,SAMN00001222;NA20503,SAMN00001223;NA20504,SAMN00001224;NA20505,SAMN00001225;NA20506,SAMN00001226;NA20507,SAMN00001227;NA20508,SAMN00001228;NA20509,SAMN00001229;NA20510,SAMN00001230;NA20512,SAMN00001232;NA20513,SAMN00001233;NA20514,SAMN00001234;NA20515,SAMN00001235;NA20516,SAMN00001236;NA20517,SAMN00001237;NA20518,SAMN00001238;NA20519,SAMN00001239;NA20521,SAMN00001241;NA20522,SAMN00001242;NA20524,SAMN00001243;NA20525,SAMN00001244;NA20526,SAMN00001245;NA20527,SAMN00001246;NA20528,SAMN00001247;NA20529,SAMN00001248;NA20530,SAMN00001249;NA20531,SAMN00001250;NA20532,SAMN00001251;NA20533,SAMN00001252;NA20534,SAMN00001253;NA20535,SAMN00001254;NA20536,SAMN00001255;NA20537,SAMN00001256;NA20538,SAMN00001257;NA20539,SAMN00001258;NA20540,SAMN00001259;NA20541,SAMN00001260;NA20543,SAMN00001262;NA20544,SAMN00001263;NA20581,SAMN00001264;NA20582,SAMN00001265;NA20585,SAMN00001266;NA20586,SAMN00001267;NA20588,SAMN00001269;NA20589,SAMN00001270;NA20752,SAMN00001271;NA20753,SAMN00001272;NA20754,SAMN00001273;NA20755,SAMN00001274;NA20756,SAMN00001275;NA20758,SAMN00001277;NA20759,SAMN00001278;NA20760,SAMN00001279;NA20761,SAMN00001280;NA20765,SAMN00001284;NA20766,SAMN00001285;NA20768,SAMN00001287;NA20769,SAMN00001288;NA20770,SAMN00001289;NA20771,SAMN00001290;NA20772,SAMN00001291;NA20773,SAMN00001292;NA20774,SAMN00001293;NA20775,SAMN00001294;NA20778,SAMN00001295;NA20783,SAMN00001297;NA20785,SAMN00001298;NA20786,SAMN00001299;NA20787,SAMN00001300;NA20790,SAMN00001301;NA20792,SAMN00001303;NA20795,SAMN00001304;NA20796,SAMN00001305;NA20797,SAMN00001306;NA20798,SAMN00001307;NA20799,SAMN00001308;NA20800,SAMN00001309;NA20801,SAMN00001310;NA20802,SAMN00001311;NA20803,SAMN00001312;NA20804,SAMN00001313;NA20805,SAMN00001314;NA20806,SAMN00001315;NA20807,SAMN00001316;NA20808,SAMN00001317;NA20809,SAMN00001318;NA20810,SAMN00001319;NA20811,SAMN00001320;NA20812,SAMN00001321;NA20813,SAMN00001322;NA20814,SAMN00001323;NA20815,SAMN00001324;NA20816,SAMN00001325;NA20818,SAMN00001327;NA20819,SAMN00001328;NA20826,SAMN00001333;NA20828,SAMN00001335;NA19222,SAMN00001339;NA18486,SAMN00001576;NA18489,SAMN00001577;NA18498,SAMN00001578;NA18502,SAMN00001581;NA18504,SAMN00001582;NA18508,SAMN00001584;NA18517,SAMN00001588;NA18520,SAMN00001590;NA18522,SAMN00001591;NA18523,SAMN00001592;NA18853,SAMN00001623;NA18856,SAMN00001624;NA18858,SAMN00001625;NA18861,SAMN00001626;NA18871,SAMN00001628;NA18907,SAMN00001629;NA18912,SAMN00001631;NA18916,SAMN00001632;NA19098,SAMN00001664;NA19099,SAMN00001665;NA19102,SAMN00001666;NA19114,SAMN00001668;NA19116,SAMN00001669;NA19129,SAMN00001671;NA19131,SAMN00001672;NA19137,SAMN00001673;NA19138,SAMN00001674;NA19141,SAMN00001675;NA19143,SAMN00001676;NA19144,SAMN00001677;NA19153,SAMN00001680;NA19159,SAMN00001681;NA19160,SAMN00001682;NA19171,SAMN00001683;NA19172,SAMN00001684;NA19200,SAMN00001686;NA19201,SAMN00001687;NA19204,SAMN00001688;NA19206,SAMN00001689;NA19207,SAMN00001690;NA19209,SAMN00001691;NA19210,SAMN00001692;NA19225,SAMN00001693;NA19238,SAMN00001694;NA19239,SAMN00001695;NA19240,SAMN00001696;NA19257,SAMN00001697;NA18507,SAMN00004417;HG00096,SAMN00004622;HG00097,SAMN00004623;HG00098,SAMN00004624;HG00099,SAMN00004625;HG00100,SAMN00004626;HG00101,SAMN00004627;HG00102,SAMN00004628;HG00103,SAMN00004629;HG00104,SAMN00004630;HG00105,SAMN00004631;HG00106,SAMN00004632;HG00107,SAMN00004633;HG00108,SAMN00004634;HG00109,SAMN00004635;HG00110,SAMN00004636;HG00111,SAMN00004637;HG00112,SAMN00004638;HG00113,SAMN00004639;HG00114,SAMN00004640;HG00115,SAMN00004641;HG00116,SAMN00004642;HG00117,SAMN00004643;HG00120,SAMN00004644;HG00127,SAMN00004645;HG00128,SAMN00004646;HG00129,SAMN00004647;HG00130,SAMN00004648;HG00131,SAMN00004649;HG00132,SAMN00004650;HG00133,SAMN00004651;HG00134,SAMN00004652;HG00135,SAMN00004653;HG00136,SAMN00004654;HG00137,SAMN00004655;HG00138,SAMN00004656;HG00140,SAMN00004658;HG00141,SAMN00004659;HG00142,SAMN00004660;HG00143,SAMN00004661;HG00145,SAMN00004663;HG00148,SAMN00004666;HG00149,SAMN00004667;HG00150,SAMN00004668;HG00151,SAMN00004669;HG00152,SAMN00004670;HG00156,SAMN00004673;HG00157,SAMN00004674;HG00160,SAMN00004676;HG00233,SAMN00004677;HG00234,SAMN00004678;HG00235,SAMN00004679;HG00238,SAMN00004680;HG00255,SAMN00004682;HG00118,SAMN00006337;HG00119,SAMN00006338;HG00121,SAMN00006339;HG00122,SAMN00006340;HG00123,SAMN00006341;HG00124,SAMN00006342;HG00125,SAMN00006343;HG00126,SAMN00006344;HG00159,SAMN00006345;HG00231,SAMN00006346;HG00232,SAMN00006347;HG00236,SAMN00006348;HG00237,SAMN00006349;HG00239,SAMN00006350;HG00242,SAMN00006351;HG00243,SAMN00006352;HG00244,SAMN00006353;HG00245,SAMN00006354;HG00247,SAMN00006355;HG00249,SAMN00006356;HG00252,SAMN00006357;HG00253,SAMN00006358;HG00254,SAMN00006359;HG00256,SAMN00006360;HG00257,SAMN00006361;HG00258,SAMN00006362;HG00259,SAMN00006363;HG00260,SAMN00006364;HG00261,SAMN00006365;HG00262,SAMN00006366;HG00263,SAMN00006367;HG00264,SAMN00006368;HG00265,SAMN00006369;HG00266,SAMN00006370;HG00267,SAMN00006371;HG00268,SAMN00006372;HG00269,SAMN00006373;HG00270,SAMN00006374;HG00271,SAMN00006375;HG00272,SAMN00006376;HG00273,SAMN00006377;HG00306,SAMN00006378;HG00308,SAMN00006379;HG00309,SAMN00006380;HG00311,SAMN00006381;HG00312,SAMN00006382;HG00313,SAMN00006383;HG00315,SAMN00006384;HG00318,SAMN00006385;HG00319,SAMN00006386;HG00320,SAMN00006387;HG00321,SAMN00006388;HG00323,SAMN00006389;HG00327,SAMN00006390;HG00328,SAMN00006391;HG00335,SAMN00006392;HG00336,SAMN00006393;HG00337,SAMN00006394;HG00338,SAMN00006395;HG00339,SAMN00006396;HG00342,SAMN00006397;HG00343,SAMN00006398;HG00344,SAMN00006399;HG00345,SAMN00006400;HG00346,SAMN00006401;HG00349,SAMN00006402;HG00350,SAMN00006403;HG00351,SAMN00006404;HG00353,SAMN00006405;HG00355,SAMN00006406;HG00356,SAMN00006407;HG00357,SAMN00006408;HG00358,SAMN00006409;HG00359,SAMN00006410;HG00360,SAMN00006411;HG00361,SAMN00006412;HG00362,SAMN00006413;HG00364,SAMN00006414;HG00365,SAMN00006415;HG00366,SAMN00006416;HG00367,SAMN00006417;HG00368,SAMN00006418;HG00369,SAMN00006419;HG00371,SAMN00006420;HG00372,SAMN00006421;HG00373,SAMN00006422;HG00375,SAMN00006423;HG00376,SAMN00006424;HG00377,SAMN00006425;HG00378,SAMN00006426;HG00379,SAMN00006427;HG00380,SAMN00006428;HG00381,SAMN00006429;HG00382,SAMN00006430;HG00384,SAMN00006431;NA06995,SAMN00007561;NA07014,SAMN00007563;NA07031,SAMN00007566;NA07045,SAMN00007568;NA07435,SAMN00007572;NA10859,SAMN00007591;NA10863,SAMN00007594;NA12335,SAMN00007602;NA12336,SAMN00007603;NA12485,SAMN00007609;NA12707,SAMN00007610;NA12708,SAMN00007611;NA12767,SAMN00007617;NA12817,SAMN00007620;NA12818,SAMN00007621;NA18484,SAMN00007626;NA18485,SAMN00007627;NA18497,SAMN00007628;NA18500,SAMN00007629;NA18503,SAMN00007630;NA18506,SAMN00007631;NA18509,SAMN00007632;NA18515,SAMN00007633;NA18518,SAMN00007634;NA18521,SAMN00007635;NA18852,SAMN00007637;NA18854,SAMN00007638;NA18857,SAMN00007640;NA18859,SAMN00007641;NA18860,SAMN00007642;NA18862,SAMN00007643;NA18869,SAMN00007645;NA18872,SAMN00007646;NA18875,SAMN00007647;NA18911,SAMN00007648;NA18913,SAMN00007649;NA18914,SAMN00007650;NA18925,SAMN00007651;NA18930,SAMN00007652;NA18935,SAMN00007653;NA19094,SAMN00007654;NA19100,SAMN00007656;NA19101,SAMN00007657;NA19109,SAMN00007659;NA19115,SAMN00007660;NA19120,SAMN00007661;NA19123,SAMN00007662;NA19127,SAMN00007663;NA19128,SAMN00007664;NA19132,SAMN00007665;NA19139,SAMN00007666;NA19140,SAMN00007667;NA19142,SAMN00007668;NA19145,SAMN00007669;NA19148,SAMN00007670;NA19151,SAMN00007671;NA19154,SAMN00007672;NA19161,SAMN00007673;NA19173,SAMN00007674;NA19174,SAMN00007675;NA19176,SAMN00007676;NA19177,SAMN00007677;NA19178,SAMN00007678;NA19180,SAMN00007679;NA19183,SAMN00007680;NA19186,SAMN00007681;NA19191,SAMN00007682;NA19192,SAMN00007683;NA19193,SAMN00007684;NA19194,SAMN00007685;NA19199,SAMN00007686;NA19202,SAMN00007687;NA19203,SAMN00007688;NA19205,SAMN00007689;NA19208,SAMN00007690;NA19211,SAMN00007691;NA19215,SAMN00007692;NA19221,SAMN00007693;NA19224,SAMN00007694;NA19226,SAMN00007695;NA19237,SAMN00007696;NA19249,SAMN00007697;NA19252,SAMN00007698;NA19258,SAMN00007699;HG00154,SAMN00009088;HG00246,SAMN00009089;HG00250,SAMN00009091;HG00251,SAMN00009092;HG00274,SAMN00009093;HG00275,SAMN00009094;HG00276,SAMN00009095;HG00277,SAMN00009096;HG00278,SAMN00009097;HG00280,SAMN00009098;HG00281,SAMN00009099;HG00282,SAMN00009100;HG00284,SAMN00009101;HG00285,SAMN00009102;HG00310,SAMN00009103;HG00324,SAMN00009104;HG00325,SAMN00009105;HG00326,SAMN00009106;HG00329,SAMN00009107;HG00330,SAMN00009108;HG00331,SAMN00009109;HG00332,SAMN00009110;HG00334,SAMN00009111;HG00341,SAMN00009112;HG00383,SAMN00009113;HG01334,SAMN00009240;HG00171,SAMN00016965;HG00173,SAMN00016966;HG00174,SAMN00016967;HG00176,SAMN00016968;HG00177,SAMN00016969;HG00178,SAMN00016970;HG00179,SAMN00016971;HG00180,SAMN00016972;HG00181,SAMN00016973;HG00182,SAMN00016974;HG00183,SAMN00016975;HG00185,SAMN00016976;HG00186,SAMN00016977;HG00187,SAMN00016978;HG00188,SAMN00016979;HG00189,SAMN00016980;HG00190,SAMN00016981;NA06984,SAMN00797021;NA06986,SAMN00797025;NA06989,SAMN00797031;NA06991,SAMN00797037;NA07034,SAMN00797120;NA07037,SAMN00797126;NA07051,SAMN00797154;NA07055,SAMN00797162;NA07056,SAMN00797164;NA07346,SAMN00797404;NA07347,SAMN00797406;NA10836,SAMN00800236;NA10837,SAMN00800238;NA10840,SAMN00800244;NA10842,SAMN00800248;NA10843,SAMN00800250;NA10845,SAMN00800254;NA10847,SAMN00800258;NA10850,SAMN00800264;NA10851,SAMN00800266;NA10852,SAMN00800268;NA10853,SAMN00800270;NA10857,SAMN00800278;NA10861,SAMN00800286;NA10864,SAMN00800292;NA10865,SAMN00800294;NA11839,SAMN00800850;NA11843,SAMN00800857;NA11891,SAMN00800907;NA11892,SAMN00800909;NA11893,SAMN00800911;NA11894,SAMN00800913;NA11917,SAMN00800943;NA11918,SAMN00800945;NA11919,SAMN00800947;NA11920,SAMN00800949;NA11930,SAMN00800969;NA11931,SAMN00800971;NA12004,SAMN00801051;NA12005,SAMN00801053;NA12006,SAMN00801055;NA12045,SAMN00801103;NA12058,SAMN00801126;NA12234,SAMN00801290;NA12272,SAMN00801350;NA12273,SAMN00801352;NA12274,SAMN00801354;NA12275,SAMN00801356;NA12282,SAMN00801370;NA12283,SAMN00801372;NA12286,SAMN00801378;NA12287,SAMN00801380;NA12329,SAMN00801396;NA12340,SAMN00801418;NA12341,SAMN00801420;NA12342,SAMN00801422;NA12343,SAMN00801424;NA12344,SAMN00801426;NA12347,SAMN00801432;NA12348,SAMN00801434;NA12375,SAMN00801442;NA12376,SAMN00801444;NA12383,SAMN00801457;NA12386,SAMN00801461;NA12399,SAMN00801485;NA12400,SAMN00801487;NA12414,SAMN00801509;NA12489,SAMN00801582;NA12546,SAMN00801602;NA12718,SAMN00801650;NA12739,SAMN00801660;NA12748,SAMN00801678;NA12749,SAMN00801680;NA12753,SAMN00801688;NA12766,SAMN00801714;NA12775,SAMN00801732;NA12776,SAMN00801734;NA12777,SAMN00801736;NA12778,SAMN00801738;NA12814,SAMN00801772;NA12827,SAMN00801798;NA12828,SAMN00801800;NA12829,SAMN00801802;NA12830,SAMN00801804;NA12832,SAMN00801808;NA12842,SAMN00801828;NA12843,SAMN00801830;NA12875,SAMN00801882;NA12877,SAMN00801886;NA12878,SAMN00801888;NA12889,SAMN00801908;NA12890,SAMN00801910;
+Homozygous VRC01 transgenic mouse
+Protocols: Agilent SureSelect Human All Exon 71Mb
+Genomic DNA obtained from normal skin of patient number 5 for exome sequencing analysis
+Protocols: For each sample, 50-60 mg grey matter was dissected and immediately added to 1 ml Trizol reagent and the total RNA was extracted according to the manufacturer's instructions (Invitrogen). RNA was extracted according to the manufacturer's instructions (Invitrogen); poly-A containing mRNA was purified from total RNA using streptavidin-coated magnetic beads (Illumina)
+Protocols: Total RNA was extracted with GenElute total RNA miniprep kit, treated with turbo DNase and purified with RNeasy MinElute Cleanup kit. The quality was assessed on a bioanalyzer. ES cells were cultured in DMEM with GlutaMax (Life technologies) containing 15% FCS and LIF Libraries were prepared with Truseq Stranded Total RNA with Ribo-Zero Gold Prep kit (Illumina). Lipofectamine RNAi MAX (Life technologies) were used to transfect siRNA.
+Sequencing of PCR amplicons for genome-wide CRISPR screening in CHP-212 cell lines at control time point. Replicate 1.
+nasal swab from patient with asthma
+Xenograft line established from patients with lethal prostate cancer.  Samples are designated as LuCaP 23.1 through LuCaP 147 in the order in which they were initially established as xenografts in mice.
+Short Prostate Normal
+Genome of individual from Estonia, 40 years old male subject.
+mixed blood cells
+GFP SORTED
+Treg Tumor Sample Squamous Cell Carcinoma
+Polysome-associated RNA-seq reveals post-transcriptional regulation after ovarian surgery
+HD-MyZ cells, stably transfected with a Doxycycline-inducible CPEB1 shRNA vector
+spontaneously immortalised normal foreskin keratinocytes stably transfected with episomal HPV16 genomes
+Single sperm cell from human individual Patient Zero
+patient with lung adenocarcinoma, MLN metastasis with EGFR L858R mutation
+ovarian cancer cell-line
+Mature mouse spermatozoa were obtained from epididymis of C57BL mice using the swim-up assay as described (Brykczynska et al., 2010).Hi-C libraries were produced by tethered conformation capture protocol described originally by (Kalhor et al., 2012) but with some minor modifications. 
+Protocols: DNA was extracted and purified from each cell type using Qiagen kit according to the manufactor's instrcutions. Reduced Representation Bisulfite Sequencing (RRBS) was performed on 500 ng of genomic DNA per each iPSC lines, parental cells and two independent batch of H9 hESC as previously described (Gu et al., 2010).
+Protocols: HUVECs were obtained from LONZA and grown according to suppliers recommendations. Cells were cultured in EBM2 media, supplemented with EGM2. Transfection was performed using Roche X-tremegene DNA transfection reagent in low (0.4%) FBS  Following IP, DNA amplification was performed using TruSeq ChIPseq kit (Illumina, IP-202-1012). The PCR product was purified using AMPure beads. The library was quantified using the KAPA library quantification kit for Illumina sequencing platforms (KK4824)
+Human receiving Flu Mist Second Visit 
+Polyadenylated RNA fraction isolated from human Brain RNA purchased from Clontech
+mouse ovary surface epithelium cells were isolation from HUWE1
+Matched Adjacent Benign Prostate
+UNK whole genome sequencing data from blood by Illumina
+In this Study, we show that Shh is secreted on two types of exo-vesicles by human cell lines . We have characterized these vesicles for their RNA content. Using NGS sequencing we found several smallRNAs differentially enriched between two vesicles.
+Sample from cecum of mouse kept on high fat diet
+Handkerchief allegedly dipped into the blood of the French king Louis XVI, kept inside a pyrographically decorated gourd
+microdissected tumor sample from chronic exposure to solar-simulated UVR
+Protocols: Cell lines were grown in RPMI-1640 + 10% fetal bovine serum + 1x penicillin/streptomycin (all Invitrogen, Paisley, UK) at 37 1C, 5% CO2. RNA was extracted in triplicate from confluent T75s using TRIzol reagent (Invitrogen). Extracted RNA was pooled and DNase treated using the DNAfree kit (Ambion). mRNA was then enriched by binding to oligo dT beads using the uMACS system (Miltenyi Biotech). First and second strand cDNA synthesis were carried out using the Superscript double stranded cDNA synthesis kit (Invitrogen). Half of each cDNA reaction was used for sonication and library preparation.
+Mouse embryonic stem cell line derived from 129/Ola and maintained by tetracycline(Tc)-regulatable Oct-3/4 transgene.
+Protocols: Collection from human donors TruSeq RNA SamplePrep
+Human 1000 genomes individual HG02025 
+WildType Control
+Saliva exome
+EB3 cells
+Protocols: Cell lines were grown under standard conditions in DMEM supplemented with 10% (v/v) bovine calf serum (Gibco BRL) Transfections of small interfering RNAs (siRNAs) were carried out in 6- or 12- well plates using jetPRIME (Polyplus) according to manufacturer's recommendations. The cells received treatment with siRNA twice - 24h post seeding, and 48h post seeding when splitting into a new plate. PolyA library selection was performed using NEBNext poly(A) mRNA magnetic isolation module (E7490L) according to the manufacturer's specifications.
+BGISEQ-500 UHRR
+source: Heart tube
+Protocols: Cells were seeded 48 hours prior to treatment. DMSO was subsequently added to cells  as a solvent control. Cells were harvested in PBS 3 hours later. Total RNA was extracted using Trizol LS. Cells were fractionated and nuclear RNA was extracted using the Paris Kit (Life technologies) according to the manufacturer's instructions. mRNA-Seq libraries (from polyA+ cytoplasmic RNA) were created according to the standard Illumina TruSeq protocol.
+CD40 library sorted at 10 uM TRAF2
+Gfap gRNA with active TET
+H3K27ac-ChIP-seq of HEL cells treated with DMSO for 48 hours
+Human 1000 genomes individual HG01506
+RNA-seq following lncRNA silencing
+Whole genome sequencing of a Her-2 transgenic mouse
+Cas9-expressing K562 cells with CKDO libraries infected
+Asymptomatic healthy Malian adult with lifelong malaria exposure
+RNA-seq of WT P14 CTLs isolated 8 d.p.i. with LCMV replicate 1
+Six months female presented with neonatal jaundice and negative family history. Clinical and laboratory evidences were suggestive of hemolytic anemia. G6PD deficiency, thalassemias, hemoglobinopathies, autoimmune hemolytic anemia, hereditary spherocytosis and pyruvate kinase deficiency were excluded.
+Set 1 Donor
+MicroRNA profile of peripheral blood mononuclear cells from osteopetrosis patients by deep sequencing.
+Mus musculus (house mouse) Myeloid Leukemia Whole Genome Sequencing
+Prospermatogonia were isolated from E16.5 gonad. We conducted RNA sequencing (RNA-seq) of prospermatogonia (E16.5).
+LEC1 GATA2 ChIPseq
+Allele-specific copy number and structural variation analysis on MCF-7 with high coverage whole genome sequencing
+source: Vastus Lateralis 6 months after gastric bypass (GBP)
+Caecal content of one 18-week-old mouse fed a control experimental diet for 8 weeks and subjected to an oral glucose tolerance test after a fasting period of 6 h
+Homo sapiens
+In order to comprehensively study changes in gene transcription at transcription start sites. Using CAGE data, we attempted to determine dynamic changes in the regulation of the transcriptional network mediating RGC death after axonal injury. To prepare the RNA samples for CAGE, fixed quantities of RNA were taken from six samples and combined into a single sample, in order to minimize the influence of individual variations in the mice
+Protocols: Cell lines were established after culture on MS5 feeder in MEMa medium supplemented with 10% FBS and 10ng/mL of murine IL7, FLT3L and SCF. MO467 cells were then grown in RPMI 1640 supplemented with 10% FBS and R152 with RPMI 1640 supplemented with 10% FBS and 10 ng/ml of murine IL7 SPRIworks (Beckman Coulter)
+Pooled DNA samples of individuals from the 'Erasmus Rucphen Family Study'. Four chromosomal regions surrounding the genes LASS4, LIPC, ATP10D and SLC2A9 were selected by long-range PCR.
+Genomic DNA from a male individual from near Ust'-Ishim, Russia
+Family 1_affected daughter
+Anti-IgG RNA immunoprecipitation sample; HeLa tet-off cells expressing Flag-tagged IMP1
+source: pro-B cell
+P2RX7 control of T cell dependent IgA synthesis in Peyer's patches
+Untreated MDAMB231 cell1
+MIRA-seq data from healthy pre-B cell
+RNA-Seq data obtained from ESRP knockdown and ESRP overexpression
+Normal healthy donor
+Brain glioblastoma multiforme sample GBM_66 from cell line BT-12
+Sequencing run 1
+We have used Illumina's HiSeq2000 machine to perform next-generation sequencing of miRNAs from control U87 glioblastoma cell-line and compared the results to the ADAR1 and ADAR2 over-expression.
+Protocols: DMEM (15% FBS, 1% glutamin) medium, 37 C, 5% CO2 HGPS fibroblasts treated with DMSO (vehicle control) or with MG132 for 6 hours rneasy mini kit TruSeq Stranded mRNA
+Protocols: MIP-EGFP mice [B6.Cg-Tg(Ins1-EGFP)1Hara/J] were crossed with CD1 females to obtain embryo or mice of desired ages.  The presence of vaginal plug at noon was considered as E0.5. E16.5 pancreatic tissues were dissociated with trypsin at 37 C for 10-60 minutes. Adult pancreas were perfused, islets handpicked, and then subject to sorting. Flow Cytometry experiments were performed in the VMC Flow Cytometry Shared Resource on a BD Aria I or II. Littermates without EGFP were used as controls to set gating. Cell purity was >98% in all samples.
+Candiolo Cancer Institute -- Liquid Biopsy study
+Preeclamsia (PE) Placenta_1
+induced pluripotent stem cell line generated from ALS patient fibroblast with SOD1 A4V mutation.  Generated by  retroviral transduction of KLF4, SOX2, OCT4, and cMYC 
+Matched normal liver tissue
+We performed targeted next-generation sequencing (NGS) on one patient and identified two disease-causing variants
+normal tissue (N)
+Aqueous humour sample from patients with cataract.
+Day 0 Control 1
+donor 190-96
+These are reads taken from sequencing of the skeletal remains at the La Brana-Arintero site. The reads were re-analyzed for their metagenomic content. All sequencing data is originally described in Olalde et al., 2014 Nature. However, these reads were not previously included in the public archive. We make these reads available with express consent of the original lead author and they serve as supporting material for a forth coming publication.
+Protocols: Library preparation was performed using a modified Strand-seq protocol [2], which excludes the BrdU incorporation and UV-treatment , using a Bravo Automated Liquid Handling Platform (Agilent Technologies, Santa Clara, USA).
+Protocols: Hela cells 60% confluent were treated with siRNA (non-targeting D-001810-10-20, Dharmacon) or hnRNP A1 (L-008221-00, Dharmacon) Using Illumina's TruSeq Stranded Total RNA sample prep kit
+It is the blood sample of the Korean (KPGP-00001).
+Human 1000 genomes individual HG00100
+Human 1000 genomes individual HG04146
+undepleted U266 cells
+Protocols: OE33 cells were cultured in RPMI 1640 medium containing 2 mM glutamine and 10% Fetal Bovine Serum. After cross-link reversal and protein digestion with Proteinase K (Roche), DNA was purified using Qiaquick, PCR purification kit (Qiagen) following the manufacturers instructions. ChIP was performed as described in Lee et al. 2006 using 3x107 cells. Immunoprecipitation was performed overnight at 4C with 3 g antibody (anti-FOXM1 or control IgG) and 30 l Dynabeads per experiment. Lee, T. I., Johnstone, S. E., and Young, R. A. (2006). Chromatin immunoprecipitation and microarray-based analysis of protein location. Nat Protoc 1, 729748. doi:10.1038/nprot.2006.98.
+Protocols: For stable expression of either 3xFLAG-L3MBTL2 or 3xFLAG-L3MBTL2K675/700R 1.4x10^6 HEK293 ncells having a stably integrated GAL4-responsive luciferase reporter (Stielow et al., 2008a) were transfected with 1  g of linearized pN3-3xFLAG-L3MBTL2 or pN3-3xFLAG-L3MBTL2K675/700R, respectively. Forty-eight hours upon transfection cells were selected with 1  g/ml puromycin and 1  g/ l G-418. Single clones were isolated, expanded and L3MBTL2 expression was analyzed by western blotting. ChIP-Seq experiments were performed using the OneDay ChIP kit (Diagenode) in accordance to the manufacturer s instructions. Library construction was done with the Illumina TRUSeq kit according maufacturers instructions.
+ES2 human ovarian cancer cell line
+Maternal Grandmother;subsequent to the submission of this sample and the establishment of the cell line;a detailed analysis of HapMap data has shown that the sample is from an unreported relative of another member or members of this panel;as described in Nature 437:1299-1320 (2005). (See Supplementary Table 15 and Supplementary Information on p.12. PMID: 16255080 )
+near triploid
+Human HapMap individual NA20506
+RNA Seq on embryonic stem cells
+FACS-isolated VGAT-Venus(+) cells
+Human macrophage, uninfected control, 4 hpi
+Protocols: Peripheral blood samples is collected during visit and DNA is extracted and stored -80oC for sequencing Standard library construction
+Individual, same litter as e9.5_TGC-02
+iPS derived from fibroblasts
+Single Neuronal Nucleus, Healthy Human, Cortex
+E15.5 Fetal liver Lin-c-Kit+Sca-1-
+Human 1000 genomes individual HG04144
+Suspension HeLa cells,ChIP on purified mitochondria
+FFPE section
+source: leukemia cell line
+Affected individual in a Bart''s syndrome family,CAMS-ZXL''s son
+A transformed mouse ovarian epithelial cell line (p53-/-, Akt, K-ras) was injected into nude mice. A tumor cell line derived from the injected cells underwent gene amplification that was detected as a focal peak in WGS analysis.
+H3K4me3, H3K36me3, H3K27me3 and CTCF ChIP samples along with control input whole cell extract were produced from Mouse ES Cells (V6.5; male; genotype 129SvJaexC57BL/6; passages 10-15)
+Protocols: Total RNA was extracted with TRIzol reagent (Invitrogen) according to the manufacturers protocol. Total RNA was further purified by nucleospin RNAII columns (Macherey-Nagel). RNA was amplified using the Superscript RNA amplification system (Invitrogen) and labeled with the ULS system (Kraetech), using either Cy3 or Cy5 dyes (Amersham).
+Protocols:  Cells were  lysed with Trizol while sub-confluent. Large RNA was removed from the small RNA fraction using the RNeasy Mini Kit (Qiagen), and small RNAs were collected by isopropanol precipitation and quantitated on an Agilent Technologies 2100.
+infected with T. gondii for 24h
+isolated pancreatic islets from 2 wk old mice
+Protocols: Minimum essential medium alpha with glutamax (Invitrogen), 10% fetal calf serum RNA was prepared from cells cultured in GM or DM by TriReagent (Life Technologies) according to the manufacturer's recommendation. Isolated RNA was dissolved in water and used as template for complementary DNA (cDNA) synthesis, microarray hybridization or RNA-Seq. Library prep TRUSeq, RNA-Seq library prep Illumina.
+Human HapMap individual NA19753
+mate-pair(left lane)
+bisulfite treated sample of Follicular Lymphoma cells
+human-donor contributed DNA sequence data
+HITS-CLIP sample of Regnase-1 in HEK293 cells
+16S rDNA from stool/cecum microbiota samples
+11SJK246-04 - CLC tissue
+Human 1000 genomes individual HG00464
+DNA of induced pluripotent stem cell (iPSC) clone derived from skin fibroblasts of 8-week-old C57BL/6J mouse
+Human cell line
+Before antiviral agents treatment
+Targeted DNA sequencing of tumor: Ependymoma (1) region A
+Human HapMap individual NA20502
+16S rRNA gene sequence of inferior turbinate microbiota
+In vitro cultured H7 human embryonic stem cells (WiCell) and H7-derived downstream early mesoderm progenitors
+Protocols: Cell sorting by FACS 0hr vs 4hr PBS stimulation vs 4hr TNF (30ng/mL) stimulation RNA converted to cDNA RNA isolation Preparation of a cDNA library for sequencing
+MAIT cells from PBMC
+MiRNA sequencing in serum. Total RNA was extracted by Trizol LS.
+Human FAS exon 6 mutant library generated to carry out transfection experiments.
+Protocols: RNA fractions were prepared after cell fractionation starting with 1.10e7 cells.RNA fraction were transformed into cDNA library with solexa adaptors using the standard Illumina protocol.
+A mouse fibroblast cell line with the genotype (Xi129XaCast)
+HCC1954 cell lines obtained from ATCC(R) and were maintained in RPMI medium containing 10% fetal bovine serum (FBS) and non-essential amino acids.
+cell-free DNA, patient#BPH1 with benign prostate hyperplasia
+C2C12 cells were grown in DMEM with 10% fetal bovine serum, and differentiation was induced at confluence in DMEM with 2% horse serum, 10 ug/mL insulin, and 10 ug/mL transferrin (differentiation media, DM) for 48 h.
+RNASeq biological replicate 1 of adult human dermal fibroblasts after 1 h growth at 37 C, 5% CO2, 90% RH in a 25 cm2 flask containing Medium 106 (M-106-500, Gibco) supplemented with Low Serum Growth Supplement (LSGS) (S-003-10, Gibco). Control for bacteria-HDFa confrontations.
+acute myeloid leukemia (FAB M0) cell line:Kasumi-3
+source: E14Tg2a murine ES cells; description: ChIP-seq 
+RNA Pol2 ChIP in A549 Cells after 1h, 100nM Dexamethasone Treatment (Replicate 1)
+F1_me3_B2 H3K4me3
+Normal human astrocytes to assess miRNA expression in cells that eventually become glioblastoma multiforme.
+4sample-pool of retinoblastoma tumors HPV positive by PCR
+SCC from LS002
+in vitro infected A549 cells +M. circenelloides for 16hrs_rep_2
+source: mouse day E9.5 implantation sites
+myeloid progenitors-differentiated from iPSC
+Transcriptome analysis of Hematopoietic stem cells [HSC (LSK)] (Ctrl (flox/flox, MxCre-), 3 months post pIpC injection
+Nanog m4C-seq in ESC ES-1 line
+"RC-seq library from parental human foreskin fibroblast cell line, passage 26"
+Protocols: Library was constructed by standard DNA sample preparation kit.
+Mouse Cardiac Tissue:  Sham TAC Surgery
+Protocols: MCF7 cells were cultured in RPMI1640 medium (GIBCO/BRL) supplemented with 10% (v/v) fetal bovine serum (GIBCO/BRL), 2.0 g/L sodium bicarbonate, and were incubated in a humidified 37C incubator with 5% CO2.
+Protocols: 8-10 week old male C57Bl/6 mice underwent partial hepatectomy as described in Mitchell et al Nature protocols 2008:;3:1167-1170 using isofluorane anesthesia between 8 AM and noon, and livers were harvested at the indicated time points after partial hepatectomy
+DNA damage induced by etoposide and hydroxyurea modulates gene expression affecting multiple cellular pathways.
+SUDHL-1 cell line treated by control vector without CEBPbeta KD, replicate 1
+DNA sample from human neuroepithelial stem cell line
+Protocols: First, mitotic chromosomes were isolated from cells, and then after salt treatment RNA was extracted from these two mitotic chromosome samples. 0.2M high salt treatment to isolated mitotic chromosomes   '5'' end tag sequencing protocol'
+T2C for mouse fetal brain E12.5 for the globin locus
+Transcriptional profiling (SMARTer-Seq) has been performed on the RNA material of CD48+ LSK cells of mouse mi15388_08 with Sbds-mutant mesenchymal stem cells. The project examines the effects niche oncogenic signalling on hematopoietic stem and progenitor cells.
+Protocols: Splenic, live B220+ CD93- IgM+ CD23+ follicular B cells  were sorted by flow cytometry and then either left unstimulated or stimulated with either anti-IgM or LPS or CD40L with IL-4 Unstimulated or in vitro for 6 h with either anti-IgM or LPS or CD40L with IL-4 Trizol RNA extraction followed by RNEasy Mini Kit clean up TruSeq RNA sample preparation kit (Illumina)
+WGS data from CAPAN1 cell line
+E14TG2a mouse ES cell line
+Protocols: Cell culture protocol Extraction of DNA from ID8 cells Exome capture using Agilent SureSelect Target Enrichment for Illumina Paired-end Multiplex Sequencing
+Extracellular vesicles isolated from metastatic Oral squamous cell carcinoma of the tongue  bioreplicate2
+Mouse embryoid bodies (EB) transcripts
+ChIP-seq was used to find the binding sites for the transcription factor Bcl3 in K562 cells as described in the Study category for this entry. This is Replicate 1. For more details please contact the Myers Lab at the HudsonAlpha Institute for Biotechnology.
+We analyze the effect of CHD6 depletion in the global gene expression patterns in the human colon carcinoma Caco2 cell line
+Exome sequencing was done on GBM neurospheres before and after TMZ treatment and post treatment recovery in vitro.
+Human exome sequence isolated from male with KBG Syndrome, severe epilepsy, intellectual disability, and developmental regression.
+Atacama Mummified Specimen
+Extracted overnight from 25mg cerebellum using Qiagen DNeasy spin column
+not applicable
+Human HapMap individual NA19320
+Identification of a CD4-Binding Site Antibody to HIV that Evolved Extraordinary Neutralization Breadth
+HBZ transduced mouse primary CD4+ T cells, fixed and ChIPed by anti-AcH3(Millipore #06-599)
+Mouse whole brains obtained from adult wild-type mice
+Protocols: post-mortem tissue collection Capture of L1-containing fragments followed by Illumina library prep
+HLA-DBR1-0402 Mouse Fecal Material - Mouse 1 (Male, &gt;4 Months of age)
+no induction
+Here, we compare the gut microbial populations at the early relative to the late stages of intervention using a high throughput sequencing-based analysis to understand the temporal relationship between the gut microbiota and obesity
+HT1080 cells expressing Mhy1
+mixture of 5% NA12878 and 95% NA12890
+source: Fetal Brain; description: Oligo capped transcriptional start site             library.
+Exome Sequencing data for study subject 1
+source: blastocyst
+OKF6/TERT-1 transduced by LacZ
+     903 cases resequencing project  
+HIV-1 integration sites in HIV-1 latently infected T-cell lines (ACH-2, U1, J1.1 and J-lat clones 8.4, 9.2, 10.6, 15.4, J-lat-LTR-tat-GFP 82, A1, A7 and A72)
+Mouse embryonic stem cell line derived from 129/Ola
+Protocols: The protocol describing the mouse strain TC1 can be found at http://dx.doi.org/10.1126/science.1114535. For the TC1 analysis the obtained reads were aligned to the entire mouse genome + an additional human chromsome 21 and regions of known deletions and insertions in this chromosome were removed. Hepatocytes were prepared by direct perfusion of the liver with buffered salt solution followed by percent formaldehyde. After 10 minutes the tissue was removed and diced in 500 mM glycine buffer to neutralize the formaldehyde. After homogenization the hepatocytes were rinsed with PBS.
+haplotyping of human sample NA19240
+amplicon fastq file, sequenced on Ion Torrent PGM
+Resistant clone 5-1 A
+Low FODMAP diet and probiotics in irritable bowel syndrome: a 2x2 factorial design, randomised, placebo-controlled trial
+Human Gastric Cancer Cells with Tanshinone IIA treatment
+human neonatal foreskin keratinocytes treated with a control siRNA at d3 of culture induced differentiation
+Protocols: GM12878 cells were obtained from the Coriell Cell Repositories and grown in suspension in RPMI 1640 medium, supplemented with 2 mM glutamine, 15% FBS and 1% penicillin/streptomycin under standard culture conditions. The white blood cell population was col Hi-C was performed following (Lieberman-Aiden et al., Science, 2009, DOI: 10.1126/science.1181369 ) with modifications detailed in (Mifsud et al.). For CHiC experiments promoter interactions were enriched using a biotynilated RNA bait library as described
+Protocols: ES cells were cultured on 0.1% gelatin-coated plates in 2i/LIF conditions. For neural differentiation, ES cells were plated onto laminin-coated plates in N2B27 media at a density of 100,000 per 6-well. Medium was replaced every day and the cells were not passaged during the timecourse. RNA was extracted with TRI Reagent (Sigma). Libraries were prepared with the NEXTflex Rapid Directional Illumina RNA-seq Library Prep Kit (Bioo Scientific)
+Gene-trap mutagenized near-haploid human KBM-7 cells, resistant to Wee1 inhibitor MK-1775
+Mesolithic individual UzOO74
+Transcriptome analysis of hematopoietic stem cells [HSC (LSK)] (Eed I363M/+) (males, 11-14 weeks of age)
+RLM-RACE amplification of NR3C1 from  A549 cells,  first biological replicate. Aligned Data
+argyrophil small cell carcinoma cell line:TC-YIK
+Nimblegen Sequence Capture of Genomic Mus musculus (A/J) DNA. Capture targets designed on a 6.2Mbp region of Mmu:17 between genomic positions: 30637692-36837814bp
+undiffferentiated control
+RNA-seq performed on S916
+Protocols: MCF7  cells were maintained in DMEM supplemented with 10% (v/v) FBS, penicillin (100 U/ml), streptomycin (100mg/ml) (Life Technologies). Incubation conditions were 37 C , 5% CO2 MCF-7 cells grown in 0.1% hypoxic conditions, after 72hrs the cells were sorted according to whether they expressed CA9 (CA9 +) or not (CA9-). Total RNA extraction at 72 hrs
+The blood sample was donated from Korean male (KPGP9) following the Korea ethical guidelines for human genome research.
+HeLa Control
+This cell line has a inv(3)(q21q26) which leads to an overexpression of the proto-oncogene EVI1. MOLM-1 cells were cultured using the medium conditions: 90% RPMI and 10% FBS. The culture contained 50 U/ml penicillin and 50  g/ml streptomycin (Sigma). Cell acquisition DSMZ (ACC 720)
+A surgical tumor tissue was collected from a 52-year-old man diagnosed with hepatocellular carcinoma (HCC) at the Cancer Center, Sun Yat-sen University (Guangzhou, China).  The primary tumor was 10 * 8 * 8 cm, grade II to III, showed invasive cirrhosis.  Total genomic DNA was isolated using a standard protocol with proteinase digestion, phenol chloroform extraction and ethanol precipitation.  The study was approved by the Institutional Review Board, and informed consent was signed by the patient.
+Human TRAV1-2 repertoire B36 CD4-
+isolate of keratinocytes transfected with full length HPV16 and the plasmid pcDNAIneo. Human fragments substracted
+Exome sequencing of blood samples
+Individual 08 acute
+RNA-seq from HeLa cells treated with PAPBN1 specific siRNAs for 72 hrs.  Libraries were prepared from total human RNA and sequenced using the Illumina HiSeq technology
+This individual is a 62 year old male of South-Asian origin (Country of Birth: India). They are Hindu, and their first language is Malayalam.
+Protocols: CD1 mice were time-mated to obtain branchial arches and OFT. Branchial arches and OFT were dissected and snap frozen in dry ice.  RNA was extracted using Trizol (Invitrogen, 15596-018), pooling 3-5 pairs of BAs for each sample. RNA-seq was performed in duplicates.  Library preparation of samples was performed using the Illumina TruSeq Stranded mRNA Sample Preparation Kits (Illumina)
+Protocols: DNA was extracted from cell lines or periferal blood lymphocytes using standard methods
+Dietary emulsifiers directly alter human microbiota composition and gene expression ex vivo potentiating intestinal inflammation
+ITS Probio-bif_Uni/Probio-bif_Rev Infant sample set 1
+Mouse ESC Wild Type RNA-seq
+Chromatin precipitated from Jurkat cells with monoclonal antibody (sc-7294, Santa Cruz biotechnology)
+Passage 3 of cultured mesenchymal stromal cells, which were isolated from bone marrow biopsy of the patient.
+Total mRNA (poly(a) enriched) collected from quarter brain of 12 month male APPswe/PS1dE9 mouse.
+This contains the sequence of HG01352. Sequence from this project will be used to improve the contiguity of the human reference sequence and add diverse allelic variation.
+Leprosarium burial site
+mouse calvaria collected at postnatal day 3
+Nucleosomes identified by Mnase digestion followed by direct sequencing in human CD+ T cells activated with anti-CD3 and anti-CD28 antibodies for 18 hr.
+Primary granulocytes isolated using Ficoll gradient centrifugation method from fresh blood of a healthy donor
+Human 1000 genomes individual HG03838
+C2C12 cels
+Raw sequencing reads from HepG2 mRNA for synthetic read assembly. See Stapleton et al. 2015.
+Epididymal fat pad isolated and treated with collagenase to obtain purified mature adipocytes from which DNA was extracted using DNeasy Blood and Tissue Kit (Qiagen)
+Protocols: Hela cells no treatment or, NC ASO, snoRD50a ASOs treated, the concentration is 50 nM, we used RNAi max for ASO transfection, and harvest cells 2 days after transfection. RNAs recovered by Fip1 antibodies were ligated onto an 3' adaptor, RT reactions were carried out for converting RNAs to cDNA, cDNAs were further circularized, digested, and PCR amplified. PCR product were sent for sequencing.
+Feces from 1 month old  infant
+Protocols: No treatment TrueSeq
+PBS was administered to germ-free mice. The small intestinal tissue sample was kept in RNA later overnight at 4 degree Celsius overnight and stored at -80 degree Celsius until use. Total RNA of sample was extracted with TRIzol. The extracted RNA was purified using the RNeasy mini kit.
+Lgr6-negative basal interfollicular epidermis cel
+Protocols: The MEF were expressed with CypD or treated with paraquat and mastoparan.  RNA was harvested using Trizol reagent. Illumina TruSeq RNA Sample Prep Kit  was used with 1 ug of total RNA for the construction of sequencing libraries. RNA libraries were prepared for sequencing using standard Illumina protocols
+Human 1000 genomes individual HG03868
+mtDNA Illumina Sequence from Late Pleistocene Human Skeleton, Hoyo Negro. 
+Tumor from bladder cancer patient
+9p inverted duplication (1,461,954bp) adjacent to terminal deletion (10,481,181bp)  
+KDM5B ChIP-Seq
+C2C12 cells that non harbor the N-terminal or C-terminal -GFP-tagged H3 gene
+source: adipose tissue
+Source : initial sequencing set, patient No.1, bone marrow sample
+Esopahgeal Squamous Cell Carcinoma
+Adjacent benign tissue
+Sequencing of immunoglobulin heavu chain rearrangements for BABL/c and C57BL/6 mouse strains for IgM and IgG subclasses.
+Small RNA sequencing data of bone marrow derived macrophages upon IL4 treatment from wild type and Stat6 knock down mice.
+RNA sequencing of Ambion's human brain reference from the MAQC project.  In two experiments we compared the effect of using the phi X control lane for base-calling.  Both these two experiments used the exact same image files to generate base-calls using phi X calibration or auto calibrartion.  Note that since the input is commercial RNA, there is no RNA extraction process involved.
+Control, non-treated BMDM
+Protocols: Cells were collected at exponential growth. untreated Genomic DNA was extracted and prepared using QiaAmp DNA Blood mini kit (Qiagen) The protocol is described in Philippe et al. eLife 2016 (PMID 27016617). Briefly, DNA was randomly sheared by sanitation, end-repaired, and A-tailed. After ligating a linker, a suppression PCR step allowed to amplify L1HS-Ta 3' junctions and to add Ion Torrent-specific sequencing primers, as well as sample-specific DNA barcodes for multiplexed sequencing.
+Whole genome sequencing of GM12004 to 60X coverage.
+RNA profiles of XY and XX/Sry Sertoli cells isolated from P1 and P21 mouse testes
+MRG15 null male are sterile and spermatogenesis arrested at round spermatid stage.
+DNA extracted from the cell line generated from the first asian genome sequenced.
+Z-138 Cell Line
+Sequencing from Guilinger, Thompson & Liu. Nature Biotechnology 2014.  The target site and its corresponding known off-target sites of CLTA, EMX, and VEGF were amplified from genomic DNA isolated from HEK293 cells treated with wild-type Cas9 and two sgRNAs spaced 19 bp apart targeting the CLTA site, two sgRNAs spaced 23 bp apart targeting the EMX site, two sgRNAs spaced 14 bp apart targeting the VEGF site.  All genomic target sites (for CLTA, EMX, and VEGF) were combined together forthis one type of Cas9 treatment.
+Single MAIT cell
+Fecal sample from mouse
+Human salivary gland-derived memory CD4 T cell, TCR sequences, Sjogren's syndrome patient
+genomic mutations of eEF2K in HCC
+TCR sequence of sorted, DR7 tetramer-positive CD4+ T cells from HIV+ HCMV+ HLA-DR7+ subject.
+sorted NLV+ CD8+ T cells
+Protocols: 'Cell lines were cultured at 37 C in 5% CO2 in McCoy''s 5A medium supplemented with 10% (v/v) foetal calf serum, 1x10^5 IU l^-1 penicillin, 100 mg l^-1 streptomycin and 2mM glutamine, as well as antibiotic selection agents as required (2.5 g/ml G418 for LIG3-/- and 2.5 g/ml G418 and 2.5 g/ml puromycin for LIG3-/-:NC3).' Illumina HiSeq 2000 paired-end sequencing of the MCR5HPVE6E7 fusion amplicons was performed by BGI using standard library preparations.
+Negative IgG control for chromatin immunoprecipitation of Tcf7l2 transcription factor from Myc-335 null mouse colon tissue. The sample was sequenced in two illumina lanes, this is the first lane of sequencing
+RNA-Seq of HKCI-1
+Replication cohort
+Sequencing of exon 8 of AR PCR-amplified from WGA2 amplified cfDNA, isolated from CRPC patients
+kidney mus musculus 200-500bp black6 genomic DNA
+Spike series consisting of fragmented DNA from the HCC78 NSCLC cell line added in defined concentrations (0.025%, 0.05%, 0.1%, 0.5%, 1%) into the plasma cell-free DNA of a healthy subject.
+293T and 3T3 Cell Mixture
+IMR90 Human primary lung fibroblasts
+Healthy cells with passage number < 30
+20444 WGS Normal colon tissue control sample 1
+Memory B cells isolated using Memory B Cell Isolation Kit, Miltenyi
+Lung Transplant Patient Plasma Sample
+source: Embryonic Stem cells; description: Chromatin IP against H3K4me3 
+CSNK1A1KO-1 cells sorted in CSNK1A1 supressor screen
+Source: Mouse embryonic fibroblasts (E14.5) Characteristics: Strain 129SvJae/C57/B6
+RP9 point mutation of 661w cell
+source: DLD-1;   description: chip_seq library.
+source: CD71+Ter119+ cells facs sorted cells
+Protocols: MCF-7 cells were cultured in Dulbeccos modified Eagle's medium 'DMEM' (Invitrogen).  Media were supplemented with and 10% Fetal Bovine Serum (FBS) (Sigma-Aldrich). Cells were incubated for 24 hours in an In vivo2 Hypoxia Work Station (Ruskin Technologies) in an atmosphere of either normoxia (21% oxygen) or hypoxia (0.5% oxygen). Chromatin immunoprecipitation was performed as described in the paper. Libraries were prepared using the Illumina ChIP-Seq kit.
+miRNA sequencing of Peripheral Blood Mononuclear Cells from a female donor after 30 minute of incubation
+A genome-wide DNA hydroxymethylation study of sperm was performed in BPA exposed human
+Matched normal DNA
+piRNA enriched
+We have developed a fast and efficient protocol for editing human HSPCs. We validated our protocol by amplicon sequencing of targeted loci.
+Human 1000 genomes individual HG02568
+293T control
+Genital ridges were isolated by manual dissection of E13.5 embryos
+KBM7 cell line. Two technical replicates.
+Protocols: Immortalized human embryonic kidney cell line HEK293T cells were cultured in Dulbecco's modified Eagle's medium supplemented with 10% fetal bovine serum and 1% penicillin and streptomycin. ChIP-seq, Read length 75nt PE, KAPA Library Prep Kit, Number of PCR cycles 0 cycles, Amount of DNA used to make to libraries: ~20ng, 4 samples were multiplexed per lane.
+Patient was symptomatic since 8 years of age with icterus, recurring jaundice, hyperbilirubinemia, massive spenomegaly and reticulocytosis. Peripheral blood smear revealed many RBCs to be stomatocytes (~20-30%) and reticulocytes count was 25 % . Hematological findings were suggestive of congenital stomatocytosis with compensated hemolytic anemia.
+Whole genome sequencing of ancient sample from Anzick site
+The U-937 cell line from malignant cells obtained from the pleural effusion of a patient with histiocytic lymphoma treated with phorbol myristic acid (PMA) for 96 hours
+Primary tumor of Patient 01
+Human 1000 genomes individual HG03470
+lymphoblastoid cell-line derived from NA12878
+source: HeLa cell
+NK cells were flow sorted from resting C57Bl/6 mouse spleens (&gt;97% NK1.1 CD3-).  Resting NK cells were immediately lysed for RNA isolation, and activated NK cells were stimulated with rmIL-15 for 24 hours prior to lysis for RNA isolation.
+Clone "E9" of CRISPR-edited HAP1 cells.
+IMR90 ATCC(R) CCL-186(TM) Homo sapiens lung normal (Lot no. 3604274)
+B-Lymphocyte cells from cell line GM21781
+siRNA TRUB2
+1C,Spleen,Foxp3-,CNT1 SPL-
+source: Dicer -/- murine MSC cell line
+Patient-0 whose genome was sequenced in "Single Molecule Sequencing of an Individual Human Genome" study.
+characteristics = E14 ES cells characteristics = Chromatin immunoprecipitation for CTCF transcription factor growth_protocol = E14 mouse ES cells, cultured under feeder-free conditions were maintained in Dulbecco's Modified Eagle-Medium (DMEM, GIBCO), with 15 % heat-inactivated ES qualified fetal bovine serum (FBS, GIBCO), 0.055 mM beta-mercaptoethanol (GIBCO),  description = 07-729 (Upstate) antibody was used for ChIP.
+Protocols: HEK293 FlpIn T-Rex cells expressing TDP-43 with an N-terminal eGFP-tag Duplicate iCLIP experiments were performed using an antibody targeting eGFP (Abcam ab290).
+Total RNA was extracted from viable lymphoblastoid cell line of an anonymous male Han Chinese using Trizol (Invitrogen), treated with RNase-free DNase I to remove residual DNA. poly(A)  RNA was purified using the oligo(dT) beads. Upon chemical fragmentation, double-stranded cDNA was synthesized from these RNA samples using random hexamer-primer and reverse transcriptase (Invitrogen), and further size-selected on agarose gels.
+breast cancer cell line (NF2 mutant)
+CD45+ cells
+no enrichement
+human stool sample from location A, technical replicate 1
+Human aortic smooth muscle cells (HASMCs) treated with Ang II treatment (200 nM)
+Protocols: Cell lines were cultured in media according to the recommendations of ATCC Total RNA was extracted from eight commonly used breast cancer cell lines Illumina s Small RNA v1.5 library prep protocol
+Jurcat cells were treated with HPLC purified fraction of Panax ginseng C. A. Mey. for 10h, a blank control and a treated group were DGE sequenced for ifferential expression.
+control cells
+RNA seq data of the thyroid of wild type mouse replicate 1
+Induced pluripotent stem cell (iPS) line derived from mouse embryonic fibroblasts (MEF) using an established polycistronic lentivirus containing three transcription factors, OCT4, SOX2, and KLF4 (OSK) (Chang et al., 2009). The MEFs used in this experiment were from a Gusb-/- embryo from an intercross between congenic Gusb+/- mice, a mouse model for Mucopolysaccharicosis type VII (MPSVII) (Jackson Laboratory). Clone 1, experiment 3 as described by Young, et al., 2012.
+Mouse GT1-7 hypothalamic GnRH neuron
+Short Pancreas Disease
+Human 1000 genomes individual HG00327
+Targeted deep-seq analysis of the ZSCAN2 target locus and validated off-targets, SLiCES-treated cells
+Parotid gland
+Pooled GP33+, NP396+ CD8+ T cells
+RNA-Seq of s4
+Mouse Aortic Smooth Muscle cells, donor1
+primary NB were analysed with respect to clinical variable MYCN status (0= normal, 1=amplified) or Survival (0=alive, 1= dead)
+All samples were used as validation for the tool ENCODER.
+16S rRNA gene profiles of mid-flow first urine
+biological replicate 1 of PBMCs from DCM patient
+Mouse peritoneal macrophage, untreated, 4 hrs
+Protocols: The crizotinib-resistant H2228 cell lines (H2228-CR) were generated in house and derived from EML4-ALK H2228 xenograft tumours, which acquired resistance to crizotinib in vivo after continuous crizotinib monotherapy. DNA isolation performed by GATC Biotech Exome enrichment performed using Agilent SureSelect Human All Exon v5
+Polymorphous low-grade adenoma carcinoma of the salivary gland PLGA_4
+PCR amplified from cultured skin fibroblast genomic DNA
+gene corrected IPS cells derived from a CF patient
+Sequencing of genomic CCR5A off-target sites from U2OS cells treated with CCR5A TALENs containing canonical C-terminal domains and homodimeric Fok1 domains
+Tumour sample before treatment
+Rbfox3-PAR-CLIP (Mouse brain)
+Protocols: Neural stem cells cultured in either proliferation-promoting medium (proNSC) or quiescence-promoting medium (quiNSC) Chromatin Immunoprecipitation with antibodies to H3K27ac (Abcam, ab4729), p300 (Santa Cruz, sc-585) and NFI transcription factors (Santa Cruz, sc-30918).
+liver; hepatocellular carcinoma HepG2
+KYSE-180 cells with 24Gy IR replicate 1
+RNA-seq for A549 cells treated with 211HCl for 3 hours
+Human HapMap individual Coriell catalog ID NA19172
+source: Adrenal Neoplasia Mouse 1
