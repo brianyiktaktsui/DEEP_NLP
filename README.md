@@ -22,12 +22,13 @@ Independent validation
 | [validationDataGenration.ipynb](validationDataGenration.ipynb) | validation data generation for comparison against curation and Metamap |
 |[NER in batch](nGramClassification_batch_vote.ipynb)| predict NER based on all possible sentence segments |
 |[scoreAgainstManualCuration_entity_membership](scoreAgainstManualCuration_entity_membership.ipynb)| score against manual curation|
-
+|[Parse metamap data](./metamap/exportAndParseMetamapData.ipynb) || |
+|[Score against metamap](./metamap/scoreAgainstMetamap_entity_membership.ipynb)|| |
 Auxilary notebooks that probably not used or not critical towards understanding of manuscripts
 
 |Code| Usage| 
 |:--------------:|------:|
-|downloadFromPMC.ipynb|download the pubmed text|
+|[downloadFromPMC](./downloadFromPMC.ipynb)|download the pubmed text|
 |train_pmc_word2vec.ipynb| Train a word2vec model based on pubmed text, used the pretrained one in the manuscript at the end|
 |[uploadToSynapse](./uploadToSynapse.ipynb)||
 
@@ -49,10 +50,9 @@ Please download the data from the following websites:
 | https://www.synapse.org/#!Synapse:syn15661258 | all SRX annotations|
 |https://www.synapse.org/#!Synapse:syn16805240 |PUBMED ID conversions|
 
-
 |Manuscript auxilary data| Description | 
 |---|---|
-|[Machine annotated validation  data](Data/validation_data/validation_prediction_description.1535393121.334881.html) | Example output of deep NER annotations from [NER in batch](nGramClassification_batch_vote.ipynb)|
+|[Machine annotated validation  data](https://htmlpreview.github.io/?https://github.com/brianyiktaktsui/DEEP_NLP/blob/master/Data/validation_data/validation_prediction_description.html) | Example output of deep NER annotations from [NER in batch](nGramClassification_batch_vote.ipynb)|
 |[Data curated using dataturk](https://dataturks.com/projects/btsui/Deep%20NLP%20description)| | 
 
 
@@ -67,5 +67,10 @@ If u have anaconda, install relevant packages using following command lines:
 
 
 ### License
-This work is under Creative Commons Attribution license. 
+This work is under MIT license. 
 
+
+
+```python
+#!head -n 20 ./pubmed/PMC0019XXXXX/PMC1913286.txt 
+```
